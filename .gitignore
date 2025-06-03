@@ -1,0 +1,17 @@
+target/
+*.jar
+*.war
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+.DS_Store
+*.log
+
+midatos/
+*/midatos/
+**/midatos/
+
+*.db
+*.sqlite
+*.sock
