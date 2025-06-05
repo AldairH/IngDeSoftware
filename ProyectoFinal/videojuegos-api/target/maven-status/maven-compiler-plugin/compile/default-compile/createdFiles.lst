@@ -1,0 +1,7 @@
+com\videojuegos\api\controllers\VideojuegoController.class
+com\videojuegos\api\repositories\VideojuegoRepository.class
+com\videojuegos\api\VideojuegosApiApplication.class
+com\videojuegos\api\services\VideojuegoServiceImpl.class
+com\videojuegos\api\entities\Videojuego.class
+com\videojuegos\api\exceptions\ManejadorGlobalDeErrores.class
+com\videojuegos\api\services\interfaces\VideojuegoService.class
